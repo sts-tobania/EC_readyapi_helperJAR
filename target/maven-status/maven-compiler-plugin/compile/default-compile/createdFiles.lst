@@ -1,2 +1,4 @@
 helper\MongoDBConnector.class
 helper\MQConnector.class
+playground\mq\JNDI.class
+playground\mq\JMS.class
