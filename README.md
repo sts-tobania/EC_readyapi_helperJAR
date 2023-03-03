@@ -1,4 +1,4 @@
-# earoclear_readyapi_helperJAR
+# euroclear_readyapi_helperJAR
 A jar that functions as a helper for connecting to a few different services from ReadyAPI. 
 
 ## Usage
